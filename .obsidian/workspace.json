@@ -164,13 +164,21 @@
                 "file": "Documentation/Anadin.md"
               }
             }
+          },
+          {
+            "id": "54753b8764e0397e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
